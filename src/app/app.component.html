@@ -1,9 +1,9 @@
 <div class="container">
+  <h1 #imagePrediction [hidden]="!showPredictionLoading">Predicting...</h1>
   <input id="file-input" type="file" (change)="onChangeImage($event)">
   <div>
     <label for="file-input">
     <img src="./assets/upload-image.png" alt="Click to upload..." #image alt="" width="40%" height="auto">
     </label>
   </div>
-  <h1 #imagePrediction [hidden]="!showPredictionLoading">Predicting...</h1>
 </div>

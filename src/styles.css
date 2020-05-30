@@ -11,3 +11,8 @@ img {
 #file-input {
   display: none;
 }
+
+h1 {
+  font-family: cursive;
+  color: cadetblue;
+}
