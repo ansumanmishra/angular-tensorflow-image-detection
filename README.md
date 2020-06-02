@@ -2,7 +2,8 @@
 
 ## Predict uploaded image. Built using Angular and Tensorflow js
 
-url - https://quizzical-carson-0c48bf.netlify.app/
+Netlify - https://quizzical-carson-0c48bf.netlify.app/
+Heroku - https://pacific-lake-41198.herokuapp.com/
 
 ### To run locally:
 * Clone the project
